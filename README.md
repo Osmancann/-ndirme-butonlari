@@ -1,2 +1,2 @@
-# -ndirme-butonlari
+# indirme-butonlari
 windowa - ios - android indirme butonlari
